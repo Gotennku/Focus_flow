@@ -1,0 +1,19 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="128" cy="128" r="120" fill="#6366f1"/>
+
+  <!-- Timer Circle -->
+  <circle cx="128" cy="128" r="90" fill="none" stroke="white" stroke-width="8"/>
+
+  <!-- Timer Hand -->
+  <line x1="128" y1="128" x2="128" y2="55" stroke="white" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- Center Dot -->
+  <circle cx="128" cy="128" r="8" fill="white"/>
+
+  <!-- Pomodoro (Tomato) Icon -->
+  <path d="M128 170 C 108 170, 95 157, 95 137 C 95 117, 108 104, 128 104 C 148 104, 161 117, 161 137 C 161 157, 148 170, 128 170 Z" fill="#ef4444"/>
+
+  <!-- Tomato Leaf -->
+  <path d="M128 104 Q 133 95, 138 100 Q 133 102, 128 104 Z" fill="#10b981"/>
+</svg>
